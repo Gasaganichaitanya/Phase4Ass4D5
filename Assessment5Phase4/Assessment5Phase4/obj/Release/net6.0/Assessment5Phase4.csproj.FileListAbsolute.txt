@@ -1,0 +1,14 @@
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\bin\Release\net6.0\Assessment5Phase4.exe
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\bin\Release\net6.0\Assessment5Phase4.deps.json
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\bin\Release\net6.0\Assessment5Phase4.runtimeconfig.json
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\bin\Release\net6.0\Assessment5Phase4.dll
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\bin\Release\net6.0\Assessment5Phase4.pdb
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\Assessment5Phase4.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\Assessment5Phase4.AssemblyInfoInputs.cache
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\Assessment5Phase4.AssemblyInfo.cs
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\Assessment5Phase4.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\Assessment5Phase4.dll
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\refint\Assessment5Phase4.dll
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\Assessment5Phase4.pdb
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\Assessment5Phase4.genruntimeconfig.cache
+D:\mphasis\assignments\Phase4Assignments\Day5\Assessment5Phase4\Assessment5Phase4\obj\Release\net6.0\ref\Assessment5Phase4.dll
